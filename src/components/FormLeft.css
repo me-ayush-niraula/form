@@ -1,0 +1,10 @@
+.astroImgDiv {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.astro {
+  height: 400px;
+  width: auto;
+  border: 3px solid rgb(102, 102, 102);
+}
